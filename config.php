@@ -13,7 +13,7 @@
 
   # Site info
   define(ESN_SITE_NAME, 'Sample Site');
-  define(ESN_SITE_SLOGAN, 'Warning: very sample lamas..')
+  define(ESN_SITE_SLOGAN, 'Warning: very sample lamas inside..')
   define(ESN_SITE_DOMAIN, 'SampleDomain.com');
   define(ESN_SITE_COPYRIGHT, '&copy; ' . date("Y") . ' ' . ESN_SITE_DOMAIN);
 
