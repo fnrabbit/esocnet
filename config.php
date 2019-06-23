@@ -17,5 +17,9 @@
   define(ESN_SITE_DOMAIN, 'SampleDomain.com');
   define(ESN_SITE_COPYRIGHT, '&copy; ' . date("Y") . ' ' . ESN_SITE_DOMAIN);
 
+  # Site inside
+  define(ESN_SITE_THEME, NULL);
+  define(ESN_SITE_FwORK, 'bootstrap-4');
+
   # Booleans
   define(ESN_BOOL_SHOW_SLOGAN, TRUE);
