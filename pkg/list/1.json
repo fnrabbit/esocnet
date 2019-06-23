@@ -1,0 +1,15 @@
+{
+  "pkg-name": "bootstrap4.3.1",
+  "files-count": "15",
+  "a-1": "https://raw.githubusercontent.com/fnrabbit/esocnet-pkg-base/master/bootstrap-4.3.1/type.var",
+  "b-1": "../pkg/bootstrap4.3.1/type.var",
+  "a-2": "https://raw.githubusercontent.com/fnrabbit/esocnet-pkg-base/master/bootstrap-4.3.1/init.php",
+  "b-2": "../pkg/bootstrap4.3.1/init.php",
+  "a-3": "https://raw.githubusercontent.com/fnrabbit/esocnet-pkg-base/master/bootstrap-4.3.1/about.txt",
+  "b-3": "../pkg/bootstrap4.3.1/about.txt",
+  "a-2": "https://raw.githubusercontent.com/fnrabbit/esocnet-pkg-base/master/bootstrap-4.3.1/init.php",
+  "b-2": "../pkg/bootstrap4.3.1/init.php",
+
+  ...
+
+}
