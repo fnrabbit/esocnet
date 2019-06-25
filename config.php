@@ -23,6 +23,7 @@
   ));
 
   # Control Panel
+  // i don't know why this thing need, but.. why not?
   define(ESN_CPA_ADMINS, array( // username => sha512 password
     // there password is root
     'root' => '99adc231b045331e514a516b4b7680f588e3823213abe901738bc3ad67b2f6fcb3c64efb93d18002588d3ccc1a49efbae1ce20cb43df36b38651f11fa75678e8'
