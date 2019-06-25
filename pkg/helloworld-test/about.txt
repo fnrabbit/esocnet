@@ -1,0 +1,2 @@
+Helloworld test
+moved here from https://github.com/fnrabbit/esocnet-pkg-base/tree/master/helloworld-test
