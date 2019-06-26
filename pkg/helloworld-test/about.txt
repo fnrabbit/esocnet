@@ -1,2 +1,3 @@
 Helloworld test
+Default package.
 moved here from https://github.com/fnrabbit/esocnet-pkg-base/tree/master/helloworld-test
