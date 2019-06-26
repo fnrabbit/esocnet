@@ -5,7 +5,7 @@ class esocnet_mysqli extends mysqli {
         parent::__construct($host, $user, $pass, $db);
 
         if (mysqli_connect_error()) {
-            die('Ошибка подключения (' . mysqli_connect_errno() . ') '
+            die($_LangSel['cct_error'] . '(' . mysqli_connect_errno() . ') '
                     . mysqli_connect_error());
         }
     }
@@ -13,6 +13,6 @@ class esocnet_mysqli extends mysqli {
 
 $db = new esocnet_mysqli(ESN_MYSQL_SERVER, ESN_MYSQL_UNAME, ESN_MYSQL_PWRD, ESN_MYSQL_DB);
 
-echo 'Соединение установлено... ' . $db->host_info . "\n";
+echo $_LangSel['con_establ'] . '... ' . $db->host_info . "\n";
 
 $db->close();
